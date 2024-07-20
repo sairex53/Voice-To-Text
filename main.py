@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Ваш токен, который вы получили от BotFather
-TOKEN = '6764986227:AAHgdWBgIFoDQoKQGe8xSIvShZvxdRwie2s'
+TOKEN = ''
 
 # Инициализация распознавателя речи
 recognizer = sr.Recognizer()
