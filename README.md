@@ -16,7 +16,7 @@
 - `pip3 install -r requirements.txt --break-system-packages`
 ##### 2. Create a new telegram bot in BotFather, and copy your token
 ##### 3. Edit python file
-`open main.py in some Code Editor`
+Open main.py in some Code Editor
 
 Enter your token in `TOKEN` variable
 
